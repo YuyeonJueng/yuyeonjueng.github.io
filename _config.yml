@@ -4,8 +4,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Yuyeon Jueng
-tagline:          ''
+title:            Yuyeon
+tagline:          'Jueng'
 description:      ''
 url:              https://yuyeonjueng.github.io
 baseurl:          ""
