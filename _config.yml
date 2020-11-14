@@ -1,0 +1,16 @@
+  - jekyll-gist
+  - jekyll-paginate
+
+# Custom vars
+version:            3.7.1
+# Sidebar link settings
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
+github:
+  repo:             https://github.com/fongandrew/hydeout
+  remote_theme : fongandrew/hydeout
+  url                      : "https://YuyeonJueng.github.io" # the base hostname & protocol for your site e.g. "https://fongandrew.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
